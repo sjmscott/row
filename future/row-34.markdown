@@ -1,7 +1,7 @@
 ---
-title: Class 30
+title: Class 34
 unit: Buddhism
-layout: page
+layout: future
 date: 2015-04-12
 img: dalailama2.jpg
 thumbnail: dalailama2.jpg
@@ -23,6 +23,5 @@ topic: Forgiveness
 3. Discuss
 
 ### Homework
-
 
 
