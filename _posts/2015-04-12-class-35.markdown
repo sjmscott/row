@@ -1,10 +1,10 @@
 ---
-title: 33
+title: 35
 unit: Buddhism
 layout: page
 date: 2015-04-12
 img: dreams.png
-thumbnail: thich-nhat-hanh.jpg
+thumbnail: row-32-ordo.png
 alt: image-alt
 category: Buddhism
 homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32 
