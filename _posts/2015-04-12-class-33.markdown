@@ -6,28 +6,31 @@ layout: page
 date: 2015-04-12
 img: dreams.png
 thumbnail: thich-nhat-hanh.jpg
+caption: Thich Nhat Hahn
 alt: image-alt
 category: Buddhism
-homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32 
-3A: 4-12
-8th: 4-13 
+homework:  
+3A: April 13
+8th: April 14 
 topic: Understanding Emotions
 ---
 
-### Spiritual Exercise
+### Due 
+* There is nothing due today!
+
+<!--more-->
+
+### Agenda
 
 1. Shredder Meditation
-
-### Managing Emotions
-
-2. Read Thich Nhat Hahn's article, "Embracing Negative Energies"
-3. Complete "Embracing Negative Energies worksheet"
+2. Read Thich Nhat Hahn's article, "[Embracing Negative Energies](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-Embracing-Negative-energies.pdf)"
+3. Complete "Embracing Negative Energies [worksheet](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-embracing-negative-energies-worksheet.pdf)"
 4. Roundtable Discussion
 
 ### Homework
-
 1. Upload "Embracing Negative Energies" to Showbie
 2. Write a NOW for Class #33
+
 
 
 

@@ -12,6 +12,10 @@
             
 
             <div class="col-md-4 col-sm-6 portfolio-item">
+
+
+
+      
                     
 
 <div class="panel panel-default">
@@ -20,24 +24,25 @@
   </div>
   <div class="panel-body">
     <ul>
-<p><b>Unit:</b> {{post.unit}} </p>
-<p><b>Topic:</b> {{post.topic}} </p>
-<p><b>Meeting Times: </b> 3A- {{post.3A}} | 8th-{{post.8th}}  </p>
+<li><b>Unit:</b> {{post.unit}} </li>
+<li><b>Topic:</b> {{post.topic}} </li>
+<li><b>Meeting Times: </b></li> 
+  <ul>
+  <li>3A- {{post.3A}}</li>
+  <li>8th-{{post.8th}}</li>
+  </ul>
 
  <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a>
 
-
-
-
+ <caption><p class="text-right text-muted">{{ post.caption }} </p> </caption>
 
 
  </ul>
 
 
-
  <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#{{ post.title }}">
-  see class details
+  see class agenda
 </button>
 
 <!-- Modal -->
@@ -46,12 +51,25 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel"> Class # {{ post.title }}</h4>
+        <h4 class="modal-title" id="myModalLabel"> Class # {{ post.title }} <button type="button" class="btn btn-default" data-dismiss="modal"> Close </button></h4>
       </div>
       <div class="modal-body">
        
    <div class="row">
-      <p>{{post.content}} </p>
+
+
+
+  <div class="col-md-2"><img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a></div> 
+  <div class="col-md-10"> <p>{{post.content}} </p></div>
+  
+
+
+
+
+
+<!-- 
+     
+      
 
 <table class="table table-striped">
                       <thead>
@@ -73,7 +91,7 @@
                      {% endfor %} 
 
                       </tbody>
-                  </table>
+                  </table> -->
 
    </div> <!-- row-->
 
@@ -90,10 +108,10 @@
  <!-- end modal -->
     
   </div>
-   <div class="panel-footer">
+   <!-- <div class="panel-footer">
 
     <h5>homework:</h5> <p>{{post.homework}}</p> 
-   </div>
+   </div> -->
 </div>
 
 

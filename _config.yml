@@ -16,6 +16,8 @@ collections:
   cupcakes:
     output: true
 
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+
 # Team names, titles and social links
 people:
 - name: Kay Garland
