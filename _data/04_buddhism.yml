@@ -7,6 +7,24 @@
 
 - name: 8 Fold Path Explanation
   resource-id: 02
-  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-8foldpath.pdf
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-8foldpath.
+  why: an explanation of the 8-fold path from a Buddhist perspective
   type: pdf 
 
+- name: Meditation Quotes
+  resource-id: 03
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-meditation-quotes.pdf
+  why: worksheet to learn more about meditation
+  type: pdf 
+
+- name: Embracing Negative Energies- article
+  resource-id: 04
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-Embracing-Negative-energies.pdf
+  why: article by Thich Nhat Hahn on embracing your emotions
+  type: pdf
+
+- name: Embracing Negative Energies- worksheet
+  resource-id: 05
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-embracing-negative-energies-worksheet.pdf
+  why: a worksheet to accompany the article by Thich Nhat Hahn on embracing your emotions
+  type: pdf
