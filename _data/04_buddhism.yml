@@ -10,8 +10,3 @@
   url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-8foldpath.pdf
   type: pdf 
 
-- name: normalize.css
-  resource-id: 03
-  url: http://necolas.github.io/normalize.css/
-  type: external-link 
-
