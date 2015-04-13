@@ -1,0 +1,106 @@
+<!-- Calendar Grid Section -->
+    <section id="calendar" class="bg-darkest-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading text-muted">Calendar</h2>
+                    <h3 class="section-subheading text-muted">If you have any questions, please get in touch with Mr. Scott.</h3>
+                </div>  
+            </div> <!-- row -->
+            <div class="row">
+            {% for post in site.posts %}
+            
+
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                    
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Class #{{ post.title }}</h3>
+  </div>
+  <div class="panel-body">
+    <ul>
+<p><b>Unit:</b> {{post.unit}} </p>
+<p><b>Topic:</b> {{post.description}} </p>
+<p><b>Meeting Times: </b> 3A- {{post.3A}} | 8th-{{post.8th}}  </p>
+
+ <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt=""></a>
+
+
+
+
+<a href="{{ post.url | prepend: site.baseurl }}">see class detail</a>
+
+ </ul>
+
+
+
+ <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#{{ post.title }}">
+  see class details
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="{{ post.title }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"> Class # {{ post.title }}</h4>
+      </div>
+      <div class="modal-body">
+       
+   <div class="row">
+      <p>{{post.content}} </p>
+
+<table class="table table-striped">
+                      <thead>
+                          <tr>
+                              <th>#</th>
+                              <th>Name </th>
+                              <th>Description</th>
+                       
+                          </tr>
+                      </thead>
+                      <tbody>
+                      {% for resource in site.data.04_buddhism %}
+                          <tr>
+                          <td>{{ resource.resource-id }}</td>
+                          <td><a href='{{ resource.url }}' target='_blank' title='{{ resource.title }}'> {{ resource.name }}</a></td>
+                          <td><a href='{{ resource.url }}' target='_blank' title='{{ resource.title }}'><i class="fa fa-file-{{resource.type}}-o fa-lg"></i></a> {{ resource.why }}</td>
+                          </tr>
+                     {% endfor %} 
+
+                      </tbody>
+                  </table>
+
+   </div> <!-- row-->
+
+
+             </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+    
+      </div>
+    </div>
+  </div>
+</div>
+
+ <!-- end modal -->
+    
+  </div>
+   <div class="panel-footer">
+
+    <h5>homework:</h5> <p>{{post.homework}}</p> 
+   </div>
+</div>
+
+
+
+
+
+                </div>  <!-- column -->
+            {% endfor %}
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>

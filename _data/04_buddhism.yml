@@ -1,0 +1,17 @@
+- name: Buddhism Notes
+  resource-id: 01
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-notes.pdf
+  why: a template to take notes on Buddhism
+  action: 
+  type: pdf 
+
+- name: 8 Fold Path Explanation
+  resource-id: 02
+  url: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-8foldpath.pdf
+  type: pdf 
+
+- name: normalize.css
+  resource-id: 03
+  url: http://necolas.github.io/normalize.css/
+  type: external-link 
+
