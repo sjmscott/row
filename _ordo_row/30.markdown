@@ -1,5 +1,5 @@
 ---
-title: Class 34
+title: Class 30
 unit: Buddhism
 layout: future
 date: 2015-04-12
@@ -7,13 +7,13 @@ img: dalailama2.jpg
 thumbnail: dalailama2.jpg
 alt: image-alt
 category: Buddhism
+homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32 
 3A: 4-12
 8th: 4-13 
 topic: Forgiveness
 ---
 
-1. Students from Religion on Americas are coming in to talk about Zoe Lofgren's visit to AMHS on Friday.
-2. Research Dalai Lama
-3. Complete Dalai Lama worksheet
+Work on 8-Fold Path Videos
+
 
 
