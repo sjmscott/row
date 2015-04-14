@@ -19,9 +19,6 @@ topic: Yes
 
 # Agenda
 
-1. Scanner Meditation
-2. Managing Emotions
-	2. Read Thich Nhat Hahn
-	3. Discuss
-3. Homework
+1. Loving Kindness Revisited
+2. Worksheet on the Dalai Lama
 	2. Write a NOW for Class #34
