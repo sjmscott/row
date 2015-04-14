@@ -13,7 +13,6 @@ homework:
 3A: April 13
 8th: April 14 
 topic: Understanding Emotions
-status: active
 ---
 
 {% include {{site.includes_directory}}/toc.html %}
@@ -21,7 +20,6 @@ status: active
 ### Due 
 * There is nothing due today!
 
-<!--more-->
 
 ### Agenda
 1. Announcements

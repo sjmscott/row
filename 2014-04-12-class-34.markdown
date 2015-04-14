@@ -12,7 +12,6 @@ homework:
 3A: 4-12
 8th: 4-13 
 topic: Forgiveness
-status: draft
 ---
 
 # Due 
