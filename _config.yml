@@ -13,7 +13,7 @@ color:
   secondary-dark: 333
 
 collections:
-  cupcakes:
+  classes:
     output: true
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.

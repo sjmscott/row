@@ -10,6 +10,7 @@
             <div class="row">
             {% for post in site.posts %}
             
+      
 
             <div class="col-md-4 col-sm-6 portfolio-item">
 
@@ -35,8 +36,9 @@
  
 
  </ul>
-
+  {% if post.thumbnail %}
 <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a>
+ {% endif %}
 
  <caption><p class="text-right text-muted">{{ post.caption }} </p> </caption>
 
@@ -113,6 +115,8 @@
 
     <h5>homework:</h5> <p>{{post.homework}}</p> 
    </div> -->
+
+
 </div>
 
 

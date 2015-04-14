@@ -1,0 +1,29 @@
+---
+title: 34
+unit: Buddhism
+layout: page
+date: 2014-04-12
+img: dalailama2.jpg
+thumbnail: dalailama2.jpg
+alt: image-alt
+category: Buddhism
+caption: The Dalai Lama
+homework: 
+3A: 4-12
+8th: 4-13 
+topic: Forgiveness
+status: draft
+---
+
+# Due 
+* NOW for Class #33
+
+# Agenda
+
+1. Scanner Meditation
+2. Managing Emotions
+	2. Read Thich Nhat Hahn
+	3. Discuss
+3. Homework
+	2. Write a NOW for Class #34
+
