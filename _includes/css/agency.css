@@ -18,6 +18,15 @@ body {
     color: #{{ site.color.primary }};
 }
 
+
+
+.demo-2 h2 {
+   
+    font-size: 100%;
+    
+}
+
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -320,6 +329,9 @@ header .intro-text .intro-heading {
         line-height: 75px;
     }
 }
+
+
+
 
 section {
     padding: 100px 0;

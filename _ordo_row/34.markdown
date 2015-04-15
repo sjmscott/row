@@ -7,11 +7,14 @@ img: dalailama2.jpg
 thumbnail: dalailama2.jpg
 alt: image-alt
 category: Buddhism
-homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32 
 3A: 4-12
 8th: 4-13 
 topic: Forgiveness
 ---
+
+### Business
+1. Pass Back Research Papers
+2. Update Christian Service Database
 
 ### Spiritual Exercise
 
@@ -23,5 +26,5 @@ topic: Forgiveness
 3. Discuss
 
 ### Homework
-
+1. If you haven't done so, update the Christian Service Database
 

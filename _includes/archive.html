@@ -1,37 +1,45 @@
-<section id="future">
+<section id="archive">
 <div class="container">
 
-      <div class="row row-offcanvas row-offcanvas-right">
+      <div class="row">
 
         <div class="col-xs-12 col-sm-9">
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          <div class="jumbotron">
-            <h3>Hello ROW Students</h3>
-            <p>This is an an archive of where we have been as a class.</p>
-          </div>  <!-- end of jumbotron-->
+          
           <div class="row">
 
              {% for page in site.ordo_row %}
-    {% unless page.published == false %}
-            <div class="col-xs-6 col-lg-2">
+
+            <div class="col-xs-12 col-lg-12">
  
 
        <h4><a href="{{ site.url }}{{ page.url }}"> {{ page.title }}</a></h4>
     {% if page.thumbnail %}
 <img src="img/portfolio/{{ page.thumbnail }}" class="img-responsive img-rounded" alt=""></a>
  {% endif %}
-    {% endunless %}
- 
- 
 
+   {% if page.mindmap %}
+ 
+<img src="{{ page.mindmap }}" class="img-responsive img-rounded"  alt=""></a>
+ {% endif %}
 
             </div><!--/.col-xs-6.col-lg-4-->
 
               {% endfor %}
             
+<div class="col-xs-6 col-lg-2">
+ 
 
+       
+  
+ 
+
+ 
+
+
+            </div><!--/.col-xs-6.col-lg-4-->
         
       </div><!--/row-->
 

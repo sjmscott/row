@@ -1,5 +1,5 @@
 ---
-title: Class 31
+title: Class-31
 unit: Buddhism
 layout: future
 date: 2015-04-12
@@ -13,10 +13,8 @@ homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32
 topic: Forgiveness
 ---
 
-### B\. Idea Exchange on Research Paper
-
-
-### C\. Work on 8-Fold Path Videos
+1. Idea Exchange on Research Paper
+2. Work on 8-Fold Path Videos
 
 
 

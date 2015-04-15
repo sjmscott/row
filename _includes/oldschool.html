@@ -1,0 +1,48 @@
+<section id="oldschool"
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    
+
+    <div class="container">
+      <!-- Example row of columns -->
+
+
+
+            <div class="row">
+
+
+  {% for page in site.ordo_row %}
+
+
+
+  <div class="col-md-4">
+
+<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#{{page.title}}" aria-expanded="false" aria-controls="collapseTwo">
+          {{ page.title }}
+        </a>
+      </h4>
+    </div>
+    <div id="{{page.title}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body demo-2">
+        {{ page.content }}
+      </div>
+    </div>
+  </div>
+
+ </div>
+
+
+
+
+
+          
+   {% endfor %}
+
+
+
+
+
+    </div> <!-- /container -->
+</section>
