@@ -4,8 +4,7 @@ unit: Buddhism
 unitresourcesid: 04_buddhism
 layout: page
 date: 2015-04-12
-img: dreams.png
-thumbnail: thich-nhat-hanh.jpg
+thumbnail: thich-nhat-hanh-thumb.jpg
 caption: Thich Nhat Hahn
 alt: image-alt
 category: Buddhism

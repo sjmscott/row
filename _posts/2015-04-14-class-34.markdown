@@ -3,13 +3,13 @@ title: 34
 unit: Buddhism
 layout: page
 date: 2015-04-12
-img: dalailama2.jpg
-thumbnail: dalailama2.jpg
+img: dalailama2-thumb.png
+thumbnail: dalailama2-thumb.png
 alt: image-alt
 category: Buddhism
 caption: The Dalai Lama
-3A: 4-15
-8th: 4-16 
+3A: Wednesday, April 15
+8th: Thursday, April 16
 topic: Forgiveness, Meditation
 ---
 

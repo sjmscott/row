@@ -3,8 +3,8 @@ title: 32
 unit: Buddhism
 layout: page
 date: 2015-04-12
-img: 8foldpath.png
-thumbnail: 8foldpath.png
+img: 8foldpath-thumb.png
+thumbnail: 8foldpath-thumb.png
 alt: image-alt
 category: Buddhism
 caption: The Eight-Fold Path

@@ -10,9 +10,17 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+ul.tinytext {
+    font-size: 75%;
+    line-height: 75%px;
+}
+
+
 .text-muted {
     color: #777;
 }
+
+
 
 .text-primary {
     color: #{{ site.color.primary }};

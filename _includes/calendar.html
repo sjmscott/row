@@ -12,7 +12,7 @@
             
       
 
-            <div class="col-md-6 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-12 portfolio-item">
 
 
 
@@ -24,7 +24,7 @@
     <h3 class="panel-title">Class #{{ post.title }}</h3>
   </div>
   <div class="panel-body">
-    <ul>
+  <ul class="tinytext">
 <li><b>Unit:</b> {{post.unit}} </li>
 <li><b>Topic:</b> {{post.topic}} </li>
 <li><b>Meeting Times: </b></li> 
@@ -32,15 +32,15 @@
   <li>3A- {{post.3A}}</li>
   <li>8th-{{post.8th}}</li>
   </ul>
+</ul> 
 
- 
 
- </ul>
+
   {% if post.thumbnail %}
 <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a>
  {% endif %}
 
- <caption><p class="text-right text-muted">{{ post.caption }} </p> </caption>
+ <caption><p class="text-left text-muted">{{ post.caption }} </p> </caption>
 
 
  <!-- Button trigger modal -->
