@@ -7,8 +7,9 @@ img: dalailama2.jpg
 thumbnail: dalailama2.jpg
 alt: image-alt
 category: Buddhism
-3A: 4-12
-8th: 4-13 
+caption: The Dalai Lama
+3A: 4-15
+8th: 4-16 
 topic: Forgiveness
 ---
 
@@ -27,4 +28,3 @@ topic: Forgiveness
 
 ### Homework
 1. If you haven't done so, update the Christian Service Database
-

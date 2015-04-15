@@ -3,18 +3,7 @@ title: Class-31
 unit: Buddhism
 layout: future
 date: 2015-04-12
-img: dalailama2.jpg
-thumbnail: dalailama2.jpg
-alt: image-alt
-category: Buddhism
-homework: 1) Read pages 5-10 in EROW. 2) Write a NOW on class #32 
-3A: 4-12
-8th: 4-13 
-topic: Forgiveness
+mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-31-ordo.png
 ---
 
-1. Idea Exchange on Research Paper
-2. Work on 8-Fold Path Videos
-
-
-
+![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-31-ordo.png)
