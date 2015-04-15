@@ -1,5 +1,5 @@
 ---
-title: Class 34
+title: 34
 unit: Buddhism
 layout: future
 date: 2015-04-12
@@ -10,21 +10,30 @@ category: Buddhism
 caption: The Dalai Lama
 3A: 4-15
 8th: 4-16 
-topic: Forgiveness
+topic: Forgiveness, Meditation
 ---
 
-### Business
-1. Pass Back Research Papers
-2. Update Christian Service Database
+## Business
 
-### Spiritual Exercise
+1. Pass back papers
+2. Christian Service:  If you haven't uploaded your hours, you need to do that ASAP!
+3. Website
+	1. Questions or Problems
+	2. Added Maps from first 3 quarters
 
-1. Scanner Meditation
+## Agenda
 
-### Managing Emotions
+1. Dalai Lama Bio and Tweets
+	1. Work with a partner to complete [Dalai Lama Bio and Tweets](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-dalai-lama-bio-tweet.pdf)
+	2. Each person needs to upload to Showbie
+	3. Partners make brief presentation on favorite tweet and connection to Buddhism
+2. The Dalai Lama on Hope
+	2. Close Read [Dalai Lama on Hope](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-dalai_lama-hope.pdf
+) and complete the questions
+	3. Upload to Showbie
 
-2. Read Thich Nhat Hahn
-3. Discuss
 
-### Homework
-1. If you haven't done so, update the Christian Service Database
+## Homework
+	
+1. Upload Service Hours
+2. Complete Dalai Lama on Hope Questions and upload to Showbie
