@@ -12,7 +12,7 @@
 
             <div class="row">
             {% for post in site.posts %}
-                <div class="col-lg-6">
+                <div class="col-md-6">
     
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -26,7 +26,7 @@
 
 
 
-     <div class="col-md-6 col-sm-6">
+     <div class="col-md-4 col-sm-4">
 
 
   {% if post.thumbnail %}
@@ -40,7 +40,7 @@
  </div>
 
 
-  <div class="col-md-6 col-sm-6">
+  <div class="col-md-8 col-sm-8">
 
 <ul>
 <li><b>Unit:</b> {{post.unit}} </li>
@@ -58,7 +58,7 @@
 
  <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#{{ post.title }}">
-  see class agenda
+  agenda
 </button>
 
      </div>  
