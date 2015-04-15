@@ -1,7 +1,7 @@
 ---
 title: 34
 unit: Buddhism
-layout: future
+layout: page
 date: 2015-04-12
 img: dalailama2.jpg
 thumbnail: dalailama2.jpg
