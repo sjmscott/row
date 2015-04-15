@@ -1,16 +1,16 @@
 ---
-title: 34
+title: 35	
 unit: Buddhism
 layout: page
 date: 2015-04-12
-img: dalailama2-thumb.png
-thumbnail: dalailama2-thumb.png
+img: candle-thumb.jpg
+thumbnail: candle-thumb.jpg
 alt: image-alt
 category: Buddhism
 caption: The Dalai Lama
-3A: April 15
-8th: April 16
-topic: Wisdom of the Dalai Lama
+3A: April 16
+8th: April 17
+topic: Meditation
 ---
 
 ## Business
