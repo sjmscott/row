@@ -8,8 +8,8 @@ thumbnail: dalailama2-thumb.png
 alt: image-alt
 category: Buddhism
 caption: The Dalai Lama
-3A: Wednesday, April 15
-8th: Thursday, April 16
+3A: April 15
+8th: April 16
 topic: Forgiveness, Meditation
 ---
 
