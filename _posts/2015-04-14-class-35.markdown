@@ -7,33 +7,24 @@ img: candle-thumb.jpg
 thumbnail: candle-thumb.jpg
 alt: image-alt
 category: Buddhism
-caption: The Dalai Lama
+caption: Focus
 3A: April 16
 8th: April 17
 topic: Meditation
 ---
 
-## Business
+# Due Today
+* Dalai Lama on Hope
 
-1. Pass back papers
-2. Christian Service:  If you haven't uploaded your hours, you need to do that ASAP!
-3. Website
-	1. Questions or Problems
-	2. Added Maps from first 3 quarters
+# Agenda
 
-## Agenda
+1. Dalai Lama on Hope
+	1. Discuss
+1. Research Meditation
+	1. Review [this](http://blog.lift.do/category/meditation-2/) resource on Meditation
+	1. Complete [Meditation Worksheet](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-meditation-quotes.pdf)
+	1. Discuss
 
-1. Dalai Lama Bio and Tweets
-	1. Work with a partner to complete [Dalai Lama Bio and Tweets](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-dalai-lama-bio-tweet.pdf)
-	2. Each person needs to upload to Showbie
-	3. Partners make brief presentation on favorite tweet and connection to Buddhism
-2. The Dalai Lama on Hope
-	2. Close Read [Dalai Lama on Hope](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-buddhism-dalai_lama-hope.pdf
-) and complete the questions
-	3. Upload to Showbie
-
-
-## Homework
+# Homework
 	
-1. Upload Service Hours
-2. Complete Dalai Lama on Hope Questions and upload to Showbie
+1. Upload Meditation Worksheet to Showbie
