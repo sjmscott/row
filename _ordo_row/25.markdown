@@ -1,10 +1,8 @@
 ---
 title: Class-25
 number: 25
-unit: Intro to ROW
 layout: default
 date: 2015-04-12
-topic: Welcome
 status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-25-ordo.png
 ---
