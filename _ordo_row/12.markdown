@@ -1,11 +1,12 @@
 ---
 title: Class-12
-unit: Intro to ROW
+number: 12
+unit: Hinduism
 layout: default
 date: 2015-04-12
-topic: Welcome
+topic: Intro to Hinduism
 status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-12-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-12-ordo.png)
+

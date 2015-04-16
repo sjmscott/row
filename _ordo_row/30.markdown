@@ -1,5 +1,6 @@
 ---
 title: Class-30
+number: 30
 unit: Buddhism
 layout: future
 date: 2015-04-12
@@ -9,4 +10,3 @@ status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-30-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-29-ordo.png)

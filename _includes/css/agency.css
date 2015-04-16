@@ -39,6 +39,16 @@ p.thumbcaption {
     
 }
 
+.grayscale {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    
+}
+
+.opacity {
+    -webkit-filter: opacity(.5);
+    filter: opacity(.5);
+}
 
 .demo-2 h2 {
    

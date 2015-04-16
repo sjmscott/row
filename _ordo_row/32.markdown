@@ -1,0 +1,26 @@
+---
+title: Class-32
+number: 32	
+unit: Buddhism
+layout: page
+date: 2015-04-12
+img: 8foldpath-thumb.png
+thumbnail: 8foldpath-thumb.png
+alt: image-alt
+category: Buddhism
+caption: The Eight-Fold Path
+homework: 
+3A: April 1
+8th: April 2
+topic: Living the Eight-Fold Path
+---
+
+### Due 
+* 8-Fold Path Video
+
+
+### Agenda
+
+1. Loving Kindness Meditation
+2. Watch 8-Fold Path Videos
+

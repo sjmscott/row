@@ -1,6 +1,7 @@
 ---
 title: Class-15
 unit: Intro to ROW
+number: 15
 layout: default
 date: 2015-04-12
 topic: Welcome
@@ -8,4 +9,3 @@ status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-15-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-15-ordo.png)

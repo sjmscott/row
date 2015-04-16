@@ -1,11 +1,12 @@
 ---
 title: Class-10
-unit: Intro to ROW
+number: 10
+unit: Primal Religion
 layout: default
 date: 2015-04-12
-topic: Welcome
+topic: Primal Prayer
 status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-10-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-10-ordo.png)
+

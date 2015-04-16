@@ -1,11 +1,11 @@
 ---
 title: Class-02
+number: 02
 unit: Intro to ROW
 layout: default
 date: 2015-04-12
-topic: Welcome
+topic: Nostra Aetate
 status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-02-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-02-ordo.png)

@@ -1,11 +1,12 @@
 ---
 title: Class-11
-unit: Intro to ROW
+number: 11
+unit: Primal Religion
 layout: default
 date: 2015-04-12
-topic: Welcome
+topic: Gathering of Primal People
 status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-11-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-11-ordo.png)
+

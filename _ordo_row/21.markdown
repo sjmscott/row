@@ -1,5 +1,6 @@
 ---
 title: Class-21
+number: 21
 unit: Intro to ROW
 layout: default
 date: 2015-04-12
@@ -8,4 +9,3 @@ status: active
 mindmap: https://dl.dropboxusercontent.com/u/916107/teachdocs/row-21-ordo.png
 ---
 
-![](https://dl.dropboxusercontent.com/u/916107/teachdocs/row-21-ordo.png)
