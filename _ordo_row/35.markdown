@@ -1,5 +1,5 @@
 ---
-title: Class 35
+title: Class-35
 number: 35	
 unit: Buddhism
 layout: page
