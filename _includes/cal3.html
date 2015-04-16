@@ -12,11 +12,24 @@
 
             <div class="row">
             {% for post in site.posts %}
-                <div class="col-md-6">
+
+
+
+            <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://dl.dropboxusercontent.com/u/916107/teachdocs/row-01-ordo.png" alt="...">
+      <div class="caption">
+        <h3>Class 01</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+                <div class="col-sm-6 col-md-6">
     
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Class #{{ post.title }} <small>{{post.3A}} or {{post.8th}} </small></h3>  
+    <h1 class="panel-title text-muted"><span class="badge">{{ post.title }}</span>  <small>{{post.3A}} | {{post.8th}}      </span></small></h1> 
   </div>
   <div class="panel-body">  
 
@@ -26,23 +39,23 @@
 
 
 
-     <div class="col-md-4 col-sm-4">
+     <div class="col-md-5 col-sm-5">
 
 
   {% if post.thumbnail %}
 <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a>
  {% endif %}
 
- <caption><p class="text-left text-muted">{{ post.caption }} </p> </caption>
+ <caption><p class="text-left thumbcaption">{{ post.caption }} </p> </caption>
 
 
 
  </div>
 
 
-  <div class="col-md-8 col-sm-8">
+  <div class="col-md-7 col-sm-7">
 
-<ul>
+<ul class="list-unstyled tinytext">
 <li><b>Unit:</b> {{post.unit}} </li>
 <li><b>Topic:</b> {{post.topic}} </li> 
 </ul> 
@@ -133,6 +146,15 @@
  <!-- end modal -->
     
   </div>
+
+  <div class="col-md-12"> <ul class="list-group">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+
+</ul></div>
+
+  <div class="panel-footer"><h6 class="tinytext text-muted"><small><b>Unit:</b> {{post.unit}} </h6></small></div>
+
    <!-- <div class="panel-footer">
 
     <h5>homework:</h5> <p>{{post.homework}}</p> 
@@ -163,9 +185,18 @@
 
 
 
-
-
-
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://dl.dropboxusercontent.com/u/916107/teachdocs/row-01-ordo.png" alt="...">
+      <div class="caption">
+        <h3>Class 01</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 

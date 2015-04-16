@@ -1,0 +1,199 @@
+<!-- Calendar Grid Section -->
+    <section id="calendar" class="bg-darkest-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading text-muted">Calendar</h2>
+                    <h3 class="section-subheading text-muted">If you have any questions, please get in touch with Mr. Scott.</h3>
+                </div>  
+            </div> <!-- row -->
+
+
+
+            <div class="row">
+            {% for post in site.posts %}
+
+
+
+            
+                <div class="col-sm-4 col-md-4">
+    
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h1 class="panel-title text-muted"><span class="badge">{{ post.title }}</span>  <small>{{post.3A}} | {{post.8th}}      </span></small></h1> 
+
+<h6><small>{{post.topic}} </small></h6>
+
+
+
+  </div>
+  <div class="panel-body">  
+
+
+<div class="col-md-12 col-sm-12">
+  
+
+
+  {% if post.thumbnail %}
+<img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded " alt=""></a>
+ {% endif %}
+
+ <caption><p class="text-right thumbcaption">{{ post.caption }} </p> </caption>
+
+
+
+
+
+ </div>
+
+
+
+ 
+
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="{{ post.title }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"> Class # {{ post.title }} <button type="button" class="btn btn-default" data-dismiss="modal"> Close </button></h4>
+      </div>
+      <div class="modal-body">
+       
+   <div class="row">
+
+
+
+  <div class="col-md-2"><img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-rounded" alt=""></a></div> 
+  <div class="col-md-10"> <p>{{post.content}} </p></div>
+  
+
+
+
+
+
+<!-- 
+     
+      
+
+<table class="table table-striped">
+                      <thead>
+                          <tr>
+                              <th>#</th>
+                              <th>Name </th>
+                              <th>Description</th>
+                       
+                          </tr>
+                      </thead>
+                      <tbody>
+                     {% for resource in site.data.04_buddhism %}
+
+                          <tr>
+                          <td>{{ resource.resource-id }}</td>
+                          <td><a href='{{ resource.url }}' target='_blank' title='{{ resource.title }}'> {{ resource.name }}</a></td>
+                          <td><a href='{{ resource.url }}' target='_blank' title='{{ resource.title }}'><i class="fa fa-file-{{resource.type}}-o fa-lg"></i></a> {{ resource.why }}</td>
+                          </tr>
+                     {% endfor %} 
+
+                      </tbody>
+                  </table> -->
+
+   </div> <!-- row-->
+
+
+             </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+    
+      </div>
+    </div>
+  </div>
+</div>
+
+ <!-- end modal -->
+    
+  </div>
+
+  
+
+  <div class="panel-footer"><h6 class="tinytext text-muted"><small><b>Unit:</b> {{post.unit}} </h6></small>
+
+
+
+
+
+
+
+
+
+
+
+ <!-- Button trigger modal -->
+<button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#{{ post.title }}">
+  <h6>agenda </h6>
+</button>
+
+ 
+
+
+
+
+
+
+
+  </div>
+
+   <!-- <div class="panel-footer">
+
+    <h5>homework:</h5> <p>{{post.homework}}</p> 
+   </div> -->
+
+
+</div>
+
+
+
+
+
+                </div>  <!-- column -->
+            {% endfor %}
+            </div> <!-- row -->
+
+
+
+
+
+            
+
+        
+      </div><!--/row-->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://dl.dropboxusercontent.com/u/916107/teachdocs/row-01-ordo.png" alt="...">
+      <div class="caption">
+        <h3>Class 01</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+        </div> <!-- container -->
+    </section>
