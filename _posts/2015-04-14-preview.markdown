@@ -1,0 +1,38 @@
+---
+title: Preview
+unit: Buddhism
+layout: page
+date: 2015-04-12
+img: candle-thumb.jpg
+thumbnail: candle-thumb.jpg
+alt: image-alt
+category: Buddhism
+caption: Focus
+3A: April 16
+8th: April 17
+topic: Meditation
+---
+
+# 35
+
+
+# May 7 and May 8
+
+## College Life Panel
+
+* How do you find community, how do you make friends?
+* Social media usage > interview for jobs, grad school
+* Time management 
+* Financial issues 
+* How to navigate roommate relationships
+* Opportunities to stay connected to your faith. Faith community at non-Catholic universities
+* When do you pick a major? Classes needed for major - course management - registering for classes
+* How to stay connected to past communities 
+* How to handle a party scene 
+* How to stay healthy in college--food, facilities, athletics 
+* When and whom to ask for help 
+* How to talk with your professors and other staff on campus  - what is appropriate communication with a professor?
+* How your professors will respond to you if you fall behind/show signs of failure.
+* Dating and romantic relationships
+* What might you do differently about your transition to college? Anything you regret?
+* How do you say “goodbye” to your parents when you are dropped off?
