@@ -1,0 +1,17 @@
+---
+title: Class-43
+number: 43
+unit: College Life
+layout: page
+date: 2015-04-20
+img: ladyin6.jpg
+thumbnail: ladyin6.jpg
+alt: image-alt
+category: Judaism
+caption: Finding Beauty
+3A: Week 17, Day 3
+8th: 
+topic: Findy Beauty
+---
+
+

@@ -16,6 +16,10 @@ color:
 collections:
   ordo_row:
     output: true
+  ordo_row_future:
+    output: true
+  row_meta_docs:
+    output: true
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 

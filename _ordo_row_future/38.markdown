@@ -1,0 +1,17 @@
+---
+title: Class-38
+number: 38	
+unit: Islam
+layout: page
+date: 2015-04-20
+img: ladyin6.jpg
+thumbnail: ladyin6.jpg
+alt: image-alt
+category: Judaism
+caption: Finding Beauty
+3A: Week 16, Day 1
+8th: 
+topic: Findy Beauty
+---
+
+1. Introduce Islam

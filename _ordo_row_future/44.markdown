@@ -1,0 +1,16 @@
+---
+title: Class-44
+number: 44	
+unit: College Life
+layout: page
+date: 2015-04-20
+img: ladyin6.jpg
+thumbnail: ladyin6.jpg
+alt: image-alt
+category: Judaism
+caption: Finding Beauty
+3A: Week 18, Day 1
+8th: 
+topic: Findy Beauty
+---
+1. Mass with Fr. James
