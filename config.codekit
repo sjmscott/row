@@ -1123,6 +1123,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/ordo_row\/37.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/ordo_row\/37.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/ordo_row_future\/38.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1530,6 +1539,17 @@
 		"initialSize": 256104,
 		"inputAbbreviatedPath": "\/img\/portfolio\/dalailama2.png",
 		"outputAbbreviatedPath": "\/img\/portfolio\/dalailama2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/generic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 256251,
+		"inputAbbreviatedPath": "\/img\/portfolio\/generic.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/generic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

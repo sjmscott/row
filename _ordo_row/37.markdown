@@ -4,10 +4,10 @@ number: 37
 unit: Integration
 layout: page
 date: 2015-04-20
-img: 
-thumbnail: 
+img: generic.jpg
+thumbnail: generic.jpg
 alt: image-alt
-caption: Finding Beauty
+caption: Final Project
 3A: 4-23
 8th: 4-24
 topic: Findy Beauty
