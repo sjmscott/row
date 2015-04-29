@@ -23,6 +23,3 @@ topic: 5 Pillars of Islam
 		2. Text= the name of the pillar
 		3. Submit to Showbie
 
-## Other Resources
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/TpcbfxtdoI8?rel=0" frameborder="0" allowfullscreen></iframe>
