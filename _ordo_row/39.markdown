@@ -16,7 +16,7 @@ topic: 5 Pillars of Islam
 
 1. Crash Course on Islam
 1. Create a 6 slide keynote on the 5 Pillars of Islam
-	1. Slide #1= Title and group memberes
+	1. Slide #1= Title and group members
 	2. Slides 2-6= 1 slide per pillar
 	2. Specifications
 		1. Images= Full size
