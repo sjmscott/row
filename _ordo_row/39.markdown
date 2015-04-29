@@ -16,10 +16,15 @@ topic: 5 Pillars of Islam
 
 1. Crash Course on Islam
 1. Create a 6 slide keynote on the 5 Pillars of Islam
-	1. Slide #1= Title and group members
-	2. Slides 2-6= 1 slide per pillar
+	1. Intro Slide= Title and group members
+	2. Slides #1= Confession of Faith (write out the Shahada)
+	3. Slide #2= Prayer
+	4. Slide #3= Fasting
+	5. Slide #4= Wealth Sharing
+	6. Slide #5= Pilgrimage
 	2. Specifications
-		1. Images= Full size
+		1. Images= Full size, help you to understand the idea of the pillar
 		2. Text= the name of the pillar
-		3. Submit to Showbie
+		3. Submit to Showbie as a PDF
+
 
