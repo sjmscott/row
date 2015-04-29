@@ -1,0 +1,28 @@
+---
+title: Class-39
+number: 39	
+unit: Islam
+layout: page
+date: 2015-04-20
+img: islam2.jpg
+thumbnail: islam2.jpg
+alt: image-alt
+category: Judaism
+caption: Finding Beauty
+3A: Week 4-29
+8th: 4-30
+topic: 5 Pillars of Islam
+---
+
+1. Crash Course on Islam
+1. Create a 6 slide keynote on the 5 Pillars of Islam
+	1. Slide #1= Title and group memberes
+	2. Slides 2-6= 1 slide per pillar
+	2. Specifications
+		1. Images= Full size
+		2. Text= the name of the pillar
+		3. Submit to Showbie
+
+## Other Resources
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/TpcbfxtdoI8?rel=0" frameborder="0" allowfullscreen></iframe>
