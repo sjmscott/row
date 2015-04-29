@@ -7,7 +7,7 @@ date: 2015-04-20
 img: islam2.jpg
 thumbnail: islam2.jpg
 alt: image-alt
-category: Judaism
+category: Islam
 caption: Pillars
 3A: Week 4-29
 8th: 4-30
