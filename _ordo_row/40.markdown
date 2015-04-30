@@ -1,0 +1,21 @@
+---
+title: Class-40
+number: 41	
+unit: Islam
+layout: page
+date: 2015-04-20
+img: islam3.jpg
+thumbnail: islam3.jpg
+alt: image-alt
+category: Islam
+caption: Finding Beauty
+3A: Week 16, Day 3
+8th: 
+topic: 
+---
+
+1. Read article by Saquib Rahim
+2. Learn something about Islam.  Here are some options:
+	1. [Maha Elgenaidi](https://www.ing.org/news-and-updates-list/1426-reflections-on-current-events-concerning-american-muslims)
+	2. [Face to Face Interactions with Muslims](http://www.huffingtonpost.com/maha-elgenaidi/facetoface-interaction-is_1_b_5946212.html)
+	3. [Check out this cool "Periodic Table of Islam"](/img/porfolio/islam-periodictable.jpg)

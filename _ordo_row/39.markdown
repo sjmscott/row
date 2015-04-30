@@ -22,11 +22,10 @@ topic: 5 Pillars of Islam
 	4. Slide #3= Fasting
 	5. Slide #4= Wealth Sharing
 	6. Slide #5= Pilgrimage
-	2. Specifications
-		1. Images= Full size, help you to understand the idea of the pillar
+2. Specifications
+		1. Find images that help you to understand the idea of the pillar
 		2. Each slide should have the English name of the pillar-- i.e. Pilgrimage not Hajj.  
 		3. Each slide should have a sentence explaining the pillar
-		2. Text= the name of the pillar
 		3. Submit to Showbie as a PDF
 
 
