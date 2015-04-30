@@ -16,59 +16,6 @@
 
 
 
-
-             {% for page in site.ordo_row_future reversed %}
-  
-
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-
-
-  <div class="panel panel-default">
-    
-
-
-
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#{{page.title}}" aria-expanded="false" aria-controls="collapseTwo">
-         {{ page.title }}
-        </a>  <small>{{page.3A}}  [ {{ page.unit }} ]  </small>
-      </h4> 
-    </div>
-    <div id="{{page.title}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body">
-
-        {{page.content}}
-        
-      </div>
-    </div>
-  </div>
-
-</div>
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-            {% endfor %}
-
- 
-
-
-  </div> <!-- row -->
         
    <!-- begin future and announcements -->
 <!-- 
@@ -112,7 +59,7 @@
   <div class="panel-heading">
     <h1 class="panel-title text-muted"><span class="badge">{{ page.number }}</span>  <small>{{page.3A}} | {{page.8th}}      </span></small></h1> 
 
-<h6><small>{{page.topic}} </small></h6>
+
 
 
 
@@ -221,7 +168,7 @@
 
   
 
-  <div class="panel-footer"><h6 class="tinytext text-muted"> <small>{% if page.unit %}<b>Unit:</b>   {{page.unit}} </h6></small> {% endif %}
+  <div class="panel-footer"><h6 class="tinytext text-muted"> <small>{% if page.unit %}<b>Unit:</b>   {{page.unit}} {% endif %} {{page.topic}} </small> </h6> 
 
 
 
@@ -259,16 +206,16 @@
             {% endfor %}
 
  <!-- Add the extra clearfix for only the required viewport -->
-                 <div class="clearfix"></div>
-
         
+
+     
  
             </div> <!-- row -->
 
 
 
 
-            
+              
 
         
       </div><!--/row-->

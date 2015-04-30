@@ -4,14 +4,14 @@ number: 40
 unit: Islam
 layout: page
 date: 2015-04-20
-img: maja1.jpg
-thumbnail: maja1.jpg
+img: maha1.jpg
+thumbnail: maha1.jpg
 alt: image-alt
 category: Islam
 caption: Maha Elgenaidi
 3A: 4-30
 8th: 5-1
-topic: 
+topic: Islam and Education
 ---
 
 1. Watch Maha Elgenaidi video
