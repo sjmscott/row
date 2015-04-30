@@ -4,8 +4,8 @@ number: 40
 unit: Islam
 layout: page
 date: 2015-04-20
-img: maja.png
-thumbnail: maja.png
+img: maja1.png
+thumbnail: maja1.png
 alt: image-alt
 category: Islam
 caption: Maha Elgenaidi
