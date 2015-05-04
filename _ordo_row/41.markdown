@@ -9,8 +9,8 @@ thumbnail: dyer.jpg
 alt: image-alt
 category: Integration
 caption: Wayne Dyer
-3A: Week 17, Day 1
-8th: 
+3A: May 4
+8th: May 5
 topic: The Shift
 ---
 
@@ -18,7 +18,7 @@ topic: The Shift
 * Watch a segment of Ambition to Meaning (The Shift).
 * Work on NOW for Class #41
 * Work on Final Project
-	* Student Presentations will be on Class #44 (May 11 or 12)
+	* Student Presentations will be on Class #42 (May 6 or 7) or Class #44 (May 11 or 12)
 	* If the above date doesn’t work for you, we will discuss other options next class.
 
 # Homework
@@ -26,3 +26,5 @@ topic: The Shift
 2. Complete a NOW on Class #41.  Here are some prompts to get you started:
 	1. What message or idea stands out as important?  
 	2. What idea might help you to live a more beautiful life?
+	3. Which character is in most need of transformation?  Why?
+	4. Which character represents something that you need in your life?  Explain.

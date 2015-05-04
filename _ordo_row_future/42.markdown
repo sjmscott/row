@@ -9,8 +9,8 @@ thumbnail: ladyin6.jpg
 alt: image-alt
 category: Judaism
 caption: Finding Beauty
-3A: Week 17, Day 2
-8th: 
+3A: May 6
+8th: May 7
 topic: The Shift
 ---
 1. Finish Ambition to Meaning
