@@ -1,17 +1,20 @@
 ---
 title: Class-42
-number: 42	
+number: 42
 unit: Integration
 layout: page
 date: 2015-04-20
-img: ladyin6.jpg
-thumbnail: ladyin6.jpg
+img: dyer.jpg
+thumbnail: dyer.jpg
 alt: image-alt
-category: Judaism
-caption: Finding Beauty
+category: Integration
+caption: Wayne Dyer
 3A: May 6
 8th: May 7
 topic: The Shift
 ---
 1. Finish Ambition to Meaning
 2. Discuss Final Project
+
+Homework:
+1. Complete your :30 second video and upload to Showbie.
