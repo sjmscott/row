@@ -4,11 +4,11 @@ number: 42
 unit: Integration
 layout: page
 date: 2015-04-20
-img: dyer.jpg
-thumbnail: dyer.jpg
+img: trail.png
+thumbnail: trail.png
 alt: image-alt
 category: Integration
-caption: Wayne Dyer
+caption: paths
 3A: May 6
 8th: May 7
 topic: The Shift
