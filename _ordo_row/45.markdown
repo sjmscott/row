@@ -34,3 +34,8 @@ caption: Integration
 # Last 3A Class
 1. Presentations
 2. Mr. Scott’s Final Presentation
+3. Student Presentations
+	- Michaela (5)
+	- Sonya, Nicole, Sabrina, Brianna (5)
+	- Kevin (1)
+	- Tara (1)

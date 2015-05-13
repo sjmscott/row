@@ -14,7 +14,7 @@ The final exam will consist of three questions that are designed to help you to 
 
 #### Hints for Topic 1
 	* Your main argument will come from Nostra Aetate
-	* What is the result of Religious Intolerance?  
+	> * What is the result of Religious Intolerance?  
 	* What is the role of education in overcoming bigotry?
 	* What has Pope Francis said and done?
 
