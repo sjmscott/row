@@ -1,16 +1,15 @@
 ---
 title: Class-45
-number: 45	
+date: '2015-04-20 00:00:00'
+number: 45
 unit: Integration
 layout: page
-date: 2015-04-20
 img: generic.jpg
 thumbnail: generic.jpg
 alt: image-alt
 caption: Integration
 3A: Week 18, Day 2
-8th: 
-
+8th: ''
 ---
 
 # 8th period
@@ -23,7 +22,6 @@ caption: Integration
 6. Annika (1)
 7. Josh (1)
 8. Casey and Group (1)
-9. Eegee (1)
 
 # 3A
 
